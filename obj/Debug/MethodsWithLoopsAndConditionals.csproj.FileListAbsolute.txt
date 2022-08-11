@@ -1,0 +1,8 @@
+C:\Users\graha\Desktop\repos\MethodsWithLoopsAndConditionals\bin\Debug\MethodsWithLoopsAndConditionals.exe.config
+C:\Users\graha\Desktop\repos\MethodsWithLoopsAndConditionals\bin\Debug\MethodsWithLoopsAndConditionals.exe
+C:\Users\graha\Desktop\repos\MethodsWithLoopsAndConditionals\bin\Debug\MethodsWithLoopsAndConditionals.pdb
+C:\Users\graha\Desktop\repos\MethodsWithLoopsAndConditionals\obj\Debug\MethodsWithLoopsAndConditionals.csproj.AssemblyReference.cache
+C:\Users\graha\Desktop\repos\MethodsWithLoopsAndConditionals\obj\Debug\MethodsWithLoopsAndConditionals.csproj.SuggestedBindingRedirects.cache
+C:\Users\graha\Desktop\repos\MethodsWithLoopsAndConditionals\obj\Debug\MethodsWithLoopsAndConditionals.csproj.CoreCompileInputs.cache
+C:\Users\graha\Desktop\repos\MethodsWithLoopsAndConditionals\obj\Debug\MethodsWithLoopsAndConditionals.exe
+C:\Users\graha\Desktop\repos\MethodsWithLoopsAndConditionals\obj\Debug\MethodsWithLoopsAndConditionals.pdb
